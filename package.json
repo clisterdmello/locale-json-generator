@@ -1,0 +1,23 @@
+{
+  "name": "locale-json-generator",
+  "version": "1.0.0",
+  "description": "Package to generate locale based JSON from excel sheet",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:clisterdmello/locale-json-generator.git"
+  },
+  "keywords": [
+    "en",
+    "fr",
+    "nl",
+    "be"
+  ],
+  "bin": {
+    "generate-json": "./index.js"
+  },
+  "author": "Clister Nitish Dmello <clisterdmello@gmail.com>",
+  "license": "ISC"
+}
