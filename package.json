@@ -1,6 +1,6 @@
 {
   "name": "locale-json-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to generate locale based JSON from excel sheet",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
