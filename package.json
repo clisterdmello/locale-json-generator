@@ -17,11 +17,12 @@
     "be"
   ],
   "bin": {
-    "generate-json": "./index.js"
+    "generate-translations": "./index.js"
   },
   "author": "Clister Nitish Dmello <clisterdmello@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "convert-excel-to-json": "^1.4.1"
+    "convert-excel-to-json": "^1.4.1",
+    "write-json-file": "^3.0.2"
   }
 }
